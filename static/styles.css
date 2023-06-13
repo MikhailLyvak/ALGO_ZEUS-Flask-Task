@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+}
+
+h1, h2 {
+    margin: 20px 0;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+.select-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  select {
+    flex: 1;
+    height: 50px;
+    font-size: 100%;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 25px;
+    background-color: #3fc9ff;
+    border: none;
+    border-bottom: 2px solid #3fc9ff;
+    color: white;
+    padding: 10px;
+    padding-right: 38px;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    transition: color 0.3s ease, background-color 0.3s ease, border-bottom-color 0.3s ease;
+  }
+  
+  select::-ms-expand {
+    display: none;
+  }
+  
+  select:hover,
+  select:focus {
+    color: #3fc9ff;
+    background-color: white;
+    border-bottom-color: #DCDCDC;
+  }
+  
+  

@@ -19,9 +19,8 @@ Python3 must be already installed
 
 
 # 🤟 For now you are ready to use WEB app
-```python
 Just go by this link, and try it by yourself -> [Link to test app](http://127.0.0.1:5000/coin/BTC/1h)
-```
+
 
 # 📜 Some project Features
 - User friendly interface

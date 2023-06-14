@@ -1,7 +1,7 @@
 # ALGO-ZEUS Flask mini copy of Binance
 There is simple WEB app with beautiful data visualization in candlestick format with auto updating data every 60 seconds.
 
-## 🎥 Video PRESENTATION ->   [Click me!](https://youtu.be/6RyPXR9MXGg)
+## 🎥 Video PRESENTATION ->   [Click me!](https://www.loom.com/share/386655546ba64e20a4de8bec703defb6?sid=0ce648b4-19b1-4385-8980-6f4d83e1212f)
 
 ## 💼 Installing using GIT
 Python3 must be already installed
@@ -20,7 +20,7 @@ Python3 must be already installed
 
 # 🤟 For now you are ready to use WEB app
 ```python
-Just go by this link, and try it by yourself -> [Link to test app]
+Just go by this link, and try it by yourself -> [Link to test app](http://127.0.0.1:5000/coin/BTC/1h)
 ```
 
 # 📜 Some project Features
